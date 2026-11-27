@@ -1,24 +1,45 @@
 # TUGAS-HAKI-LICENSE-LAYSA
 
 <h3>Hak Cipta (Copyright):</h3>
-<p>Objek Yang Dilindungi:</p>
-Kode Sumber (Source Code) Flutter/Dart untuk antarmuka pengguna (frontend) dan MySql (backend).
-Desain Antarmuka (UI/UX Design) yang dibuat menggunakan Canva (file layout, skema warna, dan ikon kustom).
-Dokumen Petunjuk Penggunaan (User Manual) berbentuk PDF untuk pencatatan stok barang.
-Pernyataan Hak Cipta: Hak Cipta © 2026 oleh Laysa Amalia. Seluruh hak dilindungi undang-undang.
-Merek (Trademark):
-Nama Brand: Pencatatan Stok Barang BSL
-Logo & Elemen Visual: Logo monokrom biru tua bergaya vintage-minimalis dengan ikon kepala sapi line-art berlabel 'EST. 2017', berpadu tipografi sans-serif tegas dan ornamen panah.
+  <ol>
+    <li>
+      <strong>Objek Yang Dilindungi:</strong>
+      <ol type="a">
+        <li>Kode Sumber (Source Code) Flutter/Dart untuk antarmuka pengguna (frontend) dan MySql (backend).</li>
+        <li>Desain Antarmuka (UI/UX Design) yang dibuat menggunakan Canva (file layout, skema warna, dan ikon kustom).</li>
+        <li>Dokumen Petunjuk Penggunaan (User Manual) berbentuk PDF untuk pencatatan stok barang.</li>
+      </ol>
+    </li>
+    <li>
+      <strong>Pernyataan Hak Cipta:</strong> Hak Cipta © 2026 oleh Laysa Amalia. Seluruh hak dilindungi undang-undang.
+    </li>
+  </ol>
 
-Fungsi Perlindungan: Mencegah pengembang lain membuat aplikasi pencatatan stok serupa dengan nama atau logo yang membingungkan konsumen.
+  <h3>Merek (Trademark):</h3>
+  <ol>
+    <li>
+      <strong>Nama Brand:</strong> Pencatatan Stok Barang BSL
+    </li>
+    <li>
+      <strong>Logo & Elemen Visual:</strong> Logo monokrom biru tua bergaya vintage-minimalis dengan ikon kepala sapi line-art berlabel 'EST. 2017', berpadu tipografi sans-serif tegas dan ornamen panah.
+    </li>
+    <li>
+      <strong>Fungsi Perlindungan:</strong> Mencegah pengembang lain membuat aplikasi pencatatan stok serupa dengan nama atau logo yang membingungkan konsumen.
+    </li>
+  </ol>
 
-
-<p>Pemilihan Lisensi Distribusi
-Jenis Lisensi Yang Dipilih: MIT License
-Alasan Pemilihan Lisensi:
-Saya memilih MIT License karena ingin aplikasi Pencatatan Stok Barang dapat dimanfaatkan secara luas oleh komunitas developer lain untuk dipelajari dan dikembangkan lebih lanjut. Lisensi ini fleksibel namun tetap melindungi nama saya sebagai pembuat asli melalui kewajiban pencantuman atribusi.
-Draf Berkas LICENSE (Siap Diunggah ke Repositori / GitHub):
-
+  <h3>Pemilihan Lisensi Distribusi</h3>
+  <ol>
+    <li>
+      <strong>Jenis Lisensi Yang Dipilih:</strong> MIT License
+    </li>
+    <li>
+      <strong>Alasan Pemilihan Lisensi:</strong><br>
+      Saya memilih MIT License karena ingin aplikasi Pencatatan Stok Barang dapat dimanfaatkan secara luas oleh komunitas developer lain untuk dipelajari dan dikembangkan lebih lanjut. Lisensi ini fleksibel namun tetap melindungi nama saya sebagai pembuat asli melalui kewajiban pencantuman atribusi.
+    </li>
+    <li>
+      <strong>Draf Berkas LICENSE (Siap Diunggah ke Repositori / GitHub):</strong>
+      <pre>
 MIT License
 
 Copyright (c) 2026 Laysa Amalia
@@ -40,4 +61,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</p>
+      </pre>
+    </li>
+  </ol>
